@@ -18,7 +18,7 @@
 
 <p align="center">
   <b>Main Interface</b><br>
-  <img src="screenshot-wide.png" alt="Main Interface" width="800"/>
+  <img src="screenshots/screenshot-main.png" alt="Main Interface" width="800"/>
 </p>
 
 ---
